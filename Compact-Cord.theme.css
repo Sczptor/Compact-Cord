@@ -1,12 +1,22 @@
 /**
     * @name Compact-Cord
     * @version 1.0.0
-    * @description An experimental version of a theme
+    * @description A material-esk theme, designed in dark mode. This theme shows off a very clean and material UI, with resizable components.
     * @author Sceptor#8372
-    *
-    * @website 
-    * @source 
+    * @website https://github.com/Sczptor/CC-Compact-Cord/
+    * @source https://github.com/Sczptor/CC-Compact-Cord/blob/main/Compact-Cord.theme.css
 **/
+
+/*
+
+_________                                     __    _________                  .___
+\_   ___ \  ____   _____ ___________    _____/  |_  \_   ___ \  ___________  __| _/
+/    \  \/ /  _ \ /     \\____ \__  \ _/ ___\   __\ /    \  \/ /  _ \_  __ \/ __ | 
+\     \___(  <_> )  Y Y  \  |_> > __ \\  \___|  |   \     \___(  <_> )  | \/ /_/ | 
+ \______  /\____/|__|_|  /   __(____  /\___  >__|    \______  /\____/|__|  \____ | 
+        \/             \/|__|       \/     \/               \/                  \/
+
+*/
 
 /* Variables */
 :root {
