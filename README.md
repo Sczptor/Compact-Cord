@@ -18,7 +18,7 @@
 
 **BetterDiscord**
 
-> [Direct Download]()
+> [Direct Download](https://ucb90f358138dd2781714eabe580.dl.dropboxusercontent.com/cd/0/get/BU3L7sVO4hq_F55Nnb2V6exjnoCCPZtl9nPD4mhaoGw_DhBau_vX-95wRJPfqnFNG2sgg3j9ALBNaLyg5xc6tUfZ4whhuvoVV9H5fwf4MbwxHyGbWhAgePwckB_u7m0bDspMMpmaDHnzmzi6RD_8g8Dm/file?dl=1#)
   
 **Steps for installation**
   
