@@ -5,7 +5,7 @@
   <img align="center" alt="Badges" src="https://img.shields.io/badge/CC-Online-Green.svg">
   <img align="center" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg">
   <img align="center" src="https://img.shields.io/github/issues/Sczptor/CC-Compact-Cord">
-  <img align="center" src="https://img.shields.io/github/license/Sczptor/CC-Compact-Cord">
+  <img align="center" src="https://img.shields.io/github/license/Sczptor/CC-Compact-Cord?label=license">
 </p>
 
 <p align="center">
