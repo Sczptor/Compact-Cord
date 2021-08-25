@@ -26,6 +26,8 @@ You can view the theme through this link to get a gist at what you're downloadin
 
 > [Direct Download](https://time-to-s.top/u/VHDMM1BR)
   
+> [View Source](https://cdn.jsdelivr.net/gh/Sczptor/Compact-Cord/Compact-Cord.theme.css)
+  
 **Steps for installation**
   
 1. Download the file using the link above
