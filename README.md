@@ -34,8 +34,6 @@ You can view the theme through this link to get a gist at what you're downloadin
 2. Open up the theme folder from within BetterDiscord
 3. Place the file inside this folder
   
----
-  
 ## Issues
   
 > Please note that you need to be using dark mode on discord for this to work correctly.
