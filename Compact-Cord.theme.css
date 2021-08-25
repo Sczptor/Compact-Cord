@@ -231,7 +231,8 @@ rect[fill^="hsl(214,"] {fill: rgba(83, 83, 83, 0.479)}
     font-weight: 500
 }
 
-/* Horizontal server list - https://github.com/DiscordStyles/HorizontalServerList */
+/* Horizontal server list - Thanks to Gibbu
+https://github.com/DiscordStyles/HorizontalServerList*/
 
 #app-mount .app-1q1i1E .base-3dtUhz {
   top: var(--server-container) !important;
