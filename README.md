@@ -11,9 +11,15 @@
 <p align="center">
   <img alt="Preview" width="860" alt="preview" src="https://cdn.upload.systems/uploads/kSqhhZc9.png">
 <p align="center">
-
+  
 ---
 
+## Preview
+  
+You can view the theme through this link to get a gist at what you're downloading
+  
+> [Theme Viewer](https://gibbu.github.io/ThemePreview/?file=https://cdn.jsdelivr.net/gh/Sczptor/Compact-Cord/Compact-Cord.theme.css)
+  
 ## Installation
 
 **BetterDiscord**
