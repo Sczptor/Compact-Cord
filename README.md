@@ -1,5 +1,4 @@
 <h1 align="center">Compact Cord</h1>
-<p align="center">A material-esk theme, designed in dark mode. This theme shows off a very clean and material UI, with resizable components.</p>
 
 <p align="center">
   <img align="center" alt="Badges" src="https://img.shields.io/badge/CC-Online-Green.svg">
@@ -9,7 +8,13 @@
 </p>
 
 <p align="center">
-  <img alt="Preview" width="860" alt="preview" src="https://cdn.upload.systems/uploads/kSqhhZc9.png">
+  <img align="center" src="https://cdn.upload.systems/uploads/XYPUtpvV.png">
+</p>
+
+---
+
+<p align="center">
+  <img alt="Preview" alt="preview" src="https://cdn.upload.systems/uploads/kSqhhZc9.png">
 <p align="center">
   
 ---
