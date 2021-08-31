@@ -1,25 +1,12 @@
 /**
     * @name Compact-Cord
     * @version 1.0.0
-    * @description A material-esk theme, designed in dark mode. This theme shows off a very clean and material UI, with resizable components.
+    * @description An experimental version of a theme
     * @author Sceptor#8372
-    * @website https://github.com/Sczptor/CC-Compact-Cord/
-    * @source https://github.com/Sczptor/CC-Compact-Cord/blob/main/Compact-Cord.theme.css
+    *
+    * @website 
+    * @source 
 **/
-
-/*
-
-_________                                     __    _________                  .___
-\_   ___ \  ____   _____ ___________    _____/  |_  \_   ___ \  ___________  __| _/
-/    \  \/ /  _ \ /     \\____ \__  \ _/ ___\   __\ /    \  \/ /  _ \_  __ \/ __ | 
-\     \___(  <_> )  Y Y  \  |_> > __ \\  \___|  |   \     \___(  <_> )  | \/ /_/ | 
- \______  /\____/|__|_|  /   __(____  /\___  >__|    \______  /\____/|__|  \____ | 
-        \/             \/|__|       \/     \/               \/                  \/
-
-*/
-
-/* Imports */
-@import url("https://hyblocker.github.io/pixelcord/modules/functions/channel_icons.css")
 
 /* Variables */
 :root {
@@ -234,8 +221,7 @@ rect[fill^="hsl(214,"] {fill: rgba(83, 83, 83, 0.479)}
     font-weight: 500
 }
 
-/* Horizontal server list - Thanks to Gibbu
-https://github.com/DiscordStyles/HorizontalServerList*/
+/* Horizontal server list - https://github.com/DiscordStyles/HorizontalServerList */
 
 #app-mount .app-1q1i1E .base-3dtUhz {
   top: var(--server-container) !important;
@@ -574,6 +560,7 @@ html.platform-osx #app-mount .base-3dtUhz {
   flex-direction: column;
 }
 
+
 /* Unread pill */
 .unread-2lAfLh {
   padding-left: 0px;
@@ -720,12 +707,3 @@ html.platform-osx #app-mount .base-3dtUhz {
 .animating-rRxada.stop-animations {
   z-index: 100 !important;
 }
-
-/* Resizeable channel list/DM list */
-:root { --sidebar-initial-width: 200px; }
-.sidebar-2K8pFh {
-    resize: horizontal;
-    width: var(--sidebar-initial-width);
-}
-.sidebar-2K8pFh .channel-2QD9_O { max-width: unset; }
-.bannerImage-3KhIJ6 { width: 100%; }
